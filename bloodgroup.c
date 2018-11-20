@@ -5,7 +5,11 @@ void main()
   int i;
   do
   {
+<<<<<<< HEAD
     printf("What is your Name? Yodsarun");
+=======
+    printf("What is your Name aaaa? ");
+>>>>>>> 89ac49dd3959b58b3e3a815666f404387c04e888
     scanf("%s", Name);
     do
     {
